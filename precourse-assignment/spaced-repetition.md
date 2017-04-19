@@ -1,0 +1,9 @@
+# Spaced Repetition
+
+If you are at all like me then you know how frustrating it can be to have a piece of knowledge evaporate from your brain after a few short months of not utilizing it. The human brain is not programmed to hold onto information that is not likely to be used repeatedly so concepts that we once had firm grasps will be forgotten quickly if not reaccessed at some frequency. 
+
+[Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a proven strategy to prolong the retention of learned mateial by repeatedly exposing oneself to previous material at increasingly longer time intervals. Much of what is immediately learned is forgotten in the least amount of time. ![forgetting curve](http://cdn.lifeinthefastlane.com/wp-content/uploads/2011/11/wozniak-spaced-repetition.jpg) This forgetting curve is a rough estimate of what is a common occurrence to most normal human beings.
+
+## Anki
+
+One of the strategies of spaced repetition is to forcefully have yourself recall material without rereading it (because rereading is easy and give the false feeling of knowledge). One of these recall methods is to create flashcards with a question on the front and an answer on the back. Thankfully in these modern times we can rely on software to aid in this creation (although an argument for hand-created flashcards can be made). Anki is a very powerful spaced repetittion software that develops a study program for you and automatically determines what intervals should work for long term comprehension. I strongly suggest you check out [Anki spaced repetition software](http://www.ankisrs.net)
